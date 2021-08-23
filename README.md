@@ -11,4 +11,4 @@ practice algorithm using python
 
 |주요 알고리즘|이론|실전 문제 풀이|
 |:----:|:----:|:----:|
-|그리디|||
+|그리디 (Greedy)|[거스름돈 문제](https://github.com/jaejunlee96/Python-Algorithm/blob/main/Alg01_greedy/greedy_intro.py)||

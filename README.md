@@ -11,4 +11,7 @@ practice algorithm using python
 
 |주요 알고리즘|이론|실전 문제 풀이|
 |:----:|:----:|:----:|
-|그리디 (Greedy)|[거스름돈 문제](https://github.com/jaejunlee96/Python-Algorithm/blob/main/Alg01_greedy/greedy_intro.py)||
+|그리디 (Greedy)|[거스름돈 문제](https://github.com/jaejunlee96/Python-Algorithm/blob/main/Alg01_greedy/greedy_intro.py)|[:link:](https://github.com/jaejunlee96/Python-Algorithm/blob/main/Alg01_greedy/greedy_01.py) [:link:](https://github.com/jaejunlee96/Python-Algorithm/blob/main/Alg01_greedy/greedy_02.py) [:link:](https://github.com/jaejunlee96/Python-Algorithm/blob/main/Alg01_greedy/greedy_03.py)|
+|구현 (Implementation)|[상하좌우](https://github.com/jaejunlee96/Python-Algorithm/blob/main/Alg01_greedy/greedy_intro.py)|[:link:](https://github.com/jaejunlee96/Python-Algorithm/blob/main/Alg02_implementation/implementation_01.py) [:link:](https://github.com/jaejunlee96/Python-Algorithm/blob/main/Alg02_implementation/implementation_02.py) [:link:](https://github.com/jaejunlee96/Python-Algorithm/blob/main/Alg02_implementation/implementation_03.py)|
+|00|[]()|[:link:]() [:link:]() [:link:]()|
+|00|[00]()|[:link:]() [:link:]() [:link:]()|
